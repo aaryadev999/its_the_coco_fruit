@@ -1,0 +1,21 @@
+body{
+    font-family: 'Special Elite', cursive;
+    color: limegreen;
+}
+.div_speed{
+    float:left;
+    width:-700px;
+}
+.div_volume{
+    float:right;
+    width:700px;
+}
+h1{
+    text-size-adjust: 50px;
+    size: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+canvas{
+
+}
